@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D-Smarak
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Web Develeopment
+- 🌱 I’m currently learning ... Python
+- Okay
 - 📫 How to reach me ... Mail me on: smarak.marasini27@gmail.com
 
 <!---
