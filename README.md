@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Reference link--> https://github.com/rwaldron/idiomatic.js/
+js tips --> https://github.com/rwaldron/idiomatic.js/
